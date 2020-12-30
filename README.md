@@ -4,6 +4,3 @@ This does not use AI and is a scripted chatbot!
 
 Future Enhancement:
 This can be made into an AI chatbot that can serve many purposes and be more user friendly!
-
-Check out the video on youtube showing the demo of the same: 
-https://www.youtube.com/watch?v=_7bC8CwEX0Y
